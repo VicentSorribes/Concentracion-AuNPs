@@ -15,6 +15,6 @@ Este repositorio contiene códigos desarrollados para un sistema basado en Ardui
 - Placa de pruebas y cables de conexión
 - Resistencias (1 x 330 kΩ, 3 x 68 kΩ, 1 x 3.3 kΩ, 2 x 220 Ω) 
 - LED rojo
-- Fotodiodo SGPD542C8
+- Fotodiodo (modelo SGPD542C8 de Shenzhen Shuguan Electronic Technology)
 - Módulo láser compacto de 405 nm (modelo PL205 de Thorlabs)
 - Pantalla LCD 16x2
